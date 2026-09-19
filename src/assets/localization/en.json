@@ -1,0 +1,8 @@
+{
+    "GAME_NAME": "SNAKE",
+    "START": "ENTER — Start",
+    "GAME_OVER": "GAME OVER",
+    "SCORE": "Score: {score}",
+    "PLAY_AGAIN": "ENTER — Play Again",
+    "EXIT": "BACKSPACE — Exit"
+}
